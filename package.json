@@ -1,6 +1,6 @@
 {
   "name": "emitting-map",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A map that emits events making it easy to keep a view or another map in sync with this one",
   "main": "lib/emitting-map.js",
   "directories": {
